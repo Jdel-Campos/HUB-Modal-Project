@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@400;700&family=Kalam:wght@400;700&family=Lemonada:wght@300;400;600;700&family=Merienda:wght@300;400;500;700;900&display=swap');
+
+/* 
+font-family: 'Cormorant Upright', serif;
+font-family: 'Kalam', cursive;
+font-family: 'Lemonada', cursive;
+font-family: 'Merienda', cursive;
+*/
+
+:root{
+    --white: #FFFFFF;
+    --gray-light:#E8E8E8;
+    --gray-medium: #B9C2C4;
+    --gray-dark-medium: #6D6D6D;
+    --gray-dark: #3D3D3D;
+    
+    --brown: #947F57;
+    --red: #ff00008a;
+
+    --radius-default: 4px;
+    --radius2-default: 8px;
+    --radius3-default: 8px 8px 0 0;
+}
+.main{
+    font-family: 'Merienda', cursive;
+}
